@@ -1,0 +1,32 @@
+{
+  "name": "kata-gulp-jasmine",
+  "version": "1.0.0",
+  "description": "Base project for javascript tdd kata with gulp and Jasmine",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carloscasalar/kata-gulp-jasmine.git"
+  },
+  "keywords": [
+    "kata",
+    "javascript",
+    "jasmine",
+    "tdd",
+    "setup"
+  ],
+  "author": "@carloscasalar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carloscasalar/kata-gulp-jasmine/issues"
+  },
+  "homepage": "https://github.com/carloscasalar/kata-gulp-jasmine#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-jasmine": "^2.4.1",
+    "jasmine": "^2.5.2",
+    "jasmine-reporters": "^2.2.0"
+  }
+}
